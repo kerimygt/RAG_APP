@@ -1,0 +1,127 @@
+[
+    {
+        "id": 1,
+        "question": "Python nedir?",
+        "answer": "Python, basitliği ve çok yönlülüğü ile bilinen yüksek seviyeli, yorumlanan bir programlama dilidir."
+    },
+    {
+        "id": 2,
+        "question": "Java nedir?",
+        "answer": "Java, platformdan bağımsız uygulamalar geliştirmek için kullanılan yüksek seviyeli, nesne yönelimli bir programlama dilidir."
+    },
+    {
+        "id": 3,
+        "question": "C++ nedir?",
+        "answer": "C++, düşük seviyeli bellek manipülasyonu yetenekleri olan güçlü bir genel amaçlı programlama dilidir."
+    },
+    {
+        "id": 4,
+        "question": "Yapay Zeka nedir?",
+        "answer": "Yapay Zeka (AI), makinelerde insan zekasının simülasyonunu ifade eder."
+    },
+    {
+        "id": 5,
+        "question": "Makine Öğrenimi nedir?",
+        "answer": "Makine Öğrenimi, algoritmaların verilerden kalıplar öğrenmesini ve tahminlerde bulunmasını sağlayan bir Yapay Zeka alt dalıdır."
+    },
+    {
+        "id": 6,
+        "question": "Veri yapısı nedir?",
+        "answer": "Veri yapısı, verilerin verimli bir şekilde erişilmesi ve değiştirilmesi için organize edilme ve saklanma yöntemidir."
+    },
+    {
+        "id": 7,
+        "question": "Algoritma nedir?",
+        "answer": "Algoritma, belirli bir problemi çözmek için kullanılan sonlu bir talimat veya adım kümesidir."
+    },
+    {
+        "id": 8,
+        "question": "Fonksiyon nedir?",
+        "answer": "Fonksiyon, belirli bir görevi yerine getiren yeniden kullanılabilir bir kod bloğudur."
+    },
+    {
+        "id": 9,
+        "question": "Özyineleme (recursion) nedir?",
+        "answer": "Özyineleme, bir problemin daha küçük bir örneğini çözmek için bir fonksiyonun kendini çağırdığı bir tekniktir."
+    },
+    {
+        "id": 10,
+        "question": "Veritabanı nedir?",
+        "answer": "Veritabanı, kolayca erişilebilen, yönetilebilen ve güncellenebilen organize bir veri koleksiyonudur."
+    },
+    {
+        "id": 11,
+        "question": "SQL nedir?",
+        "answer": "SQL (Structured Query Language), ilişkisel veritabanlarını yönetmek ve sorgulamak için kullanılan bir dildir."
+    },
+    {
+        "id": 12,
+        "question": "Büyük Veri (Big Data) nedir?",
+        "answer": "Büyük Veri, geleneksel yöntemlerle işlenmesi zor olan, çok büyük ve karmaşık veri kümelerini ifade eder."
+    },
+    {
+        "id": 13,
+        "question": "Programlamada sınıf (class) nedir?",
+        "answer": "Sınıf, nesne yönelimli programlamada nesneler oluşturmak için bir şablondur ve özelliklerini ve yöntemlerini tanımlar."
+    },
+    {
+        "id": 14,
+        "question": "Polimorfizm nedir?",
+        "answer": "Polimorfizm, nesne yönelimli programlama kavramlarından biridir ve nesnelerin birden fazla form alabilmesini ifade eder."
+    },
+    {
+        "id": 15,
+        "question": "Nesne Yönelimli Programlamada (OOP) kalıtım nedir?",
+        "answer": "Kalıtım, bir sınıfın başka bir sınıftan özellik ve yöntem alabilmesini sağlayan bir OOP kavramıdır."
+    },
+    {
+        "id": 16,
+        "question": "Kapsülleme (Encapsulation) nedir?",
+        "answer": "Kapsülleme, bir nesnenin verilerine ve yöntemlerine doğrudan erişimi sınırlayan, modülerliği artıran bir OOP ilkesidir."
+    },
+    {
+        "id": 17,
+        "question": "Heap nedir?",
+        "answer": "Heap, genellikle öncelik kuyrukları için kullanılan ve heap özelliğini karşılayan özel bir ağaç tabanlı veri yapısıdır."
+    },
+    {
+        "id": 18,
+        "question": "Yığın (Stack) nedir?",
+        "answer": "Yığın, LIFO (Son Giren İlk Çıkar) prensibini takip eden bir doğrusal veri yapısıdır."
+    },
+    {
+        "id": 19,
+        "question": "Kuyruk (Queue) nedir?",
+        "answer": "Kuyruk, FIFO (İlk Giren İlk Çıkar) prensibini takip eden bir doğrusal veri yapısıdır."
+    },
+    {
+        "id": 20,
+        "question": "Graf nedir?",
+        "answer": "Graf, düğümler (vertices) ve bu düğümleri bağlayan kenarlardan oluşan, genellikle ağları temsil etmek için kullanılan bir veri yapısıdır."
+    },
+    {
+        "id": 21,
+        "question": "İkili Ağaç (Binary Tree) nedir?",
+        "answer": "İkili Ağaç, her düğümün en fazla iki çocuğa sahip olduğu bir ağaç veri yapısıdır."
+    },
+    {
+        "id": 22,
+        "question": "Bulut bilişim (Cloud Computing) nedir?",
+        "answer": "Bulut bilişim, internet üzerinden depolama, işleme ve ağ hizmetlerinin sunulmasını ifade eder."
+    },
+    {
+        "id": 23,
+        "question": "DevOps nedir?",
+        "answer": "DevOps, yazılım geliştirme ve BT operasyonlarını birleştirerek işbirliğini ve verimliliği artıran bir uygulama kümesidir."
+    },
+    {
+        "id": 24,
+        "question": "API nedir?",
+        "answer": "API (Uygulama Programlama Arayüzü), uygulamaların birbirleriyle iletişim kurmasını sağlayan bir kurallar setidir."
+    },
+    {
+        "id": 25,
+        "question": "Blockchain nedir?",
+        "answer": "Blockchain, merkezi olmayan, güvenli ve değişmez bir şekilde birçok bilgisayarda işlem kayıtlarını saklayan dijital bir defterdir."
+    }
+]
